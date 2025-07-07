@@ -25,5 +25,6 @@
 - JavaScript (Vanilla)  
 - Design inspired by a Figma Project.
 
----
+---![Screenshot 2025-07-07 152730](https://github.com/user-attachments/assets/b15b496d-1f25-48b2-a1a6-4c8ee818c149)
+
 
