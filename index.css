@@ -1,0 +1,81 @@
+/*#6943FF purple
+//display border #B295FF
+//white #F4F4F4*/
+body{
+    font-family: "Inter", sans-serif;
+    margin: 0px;
+    background-color: #EFF3EA;
+}
+.top{
+    margin: 10px;
+    background-color:#6943FF;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    flex-direction:column; 
+    padding-bottom: 50px;
+    height: 285px;
+    margin-bottom: 50px;
+}
+h1{
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 38px;
+    margin-top: 30px;
+}
+#inputs{
+    color: #FFFFFF;
+    font-family: "Inter", sans-serif;
+    text-align: center;
+    margin-top:15px;
+    width: 117px;
+    margin-bottom:20px ;
+    border: 2px solid #B295FF ;
+    background-color: #6943FF;
+    font-weight: 800;
+    font-size: 58px;
+    padding: 20px;
+    line-height: 38px;
+    border-radius: 5px;
+}
+#input-btn{
+    margin-top: 20px;
+    color: #3D3D3D;
+    font-size: 16px;
+    background-color:#FFFFFF;
+    font-family: "Inter", sans-serif;
+    border: 0;
+    padding: 12px 27.5px;
+    border-radius: 5px;
+    width: 117px;
+}
+.group{
+    text-align: center;
+    margin: 30px 25px;    
+    background-color:#FFFFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    height: 108px;
+    border-radius: 5px;
+}
+
+h3{
+    margin: 2px 77px;
+    color: #5A537B;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+p{
+    margin-bottom: 10px;
+    color: #353535;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+}
+
+/*still in development !
+create an issue if u wanna contribute ! 
